@@ -1,0 +1,3 @@
+[submodule "lilypond-shamisen"]
+	path = lilypond-shamisen
+	url = https://github.com/jeandeaual/lilypond-shamisen.git
