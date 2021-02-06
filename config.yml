@@ -1,0 +1,17 @@
+# yq script file used to update the Jekyll config file of https://github.com/jeandeaual/lilypond-jekyll-template
+# See https://mikefarah.gitbook.io/yq/commands/write-update#using-a-script-file-to-update
+- command: update
+  path: title
+  value: “Ue wo Muite Arukō” by Kyu Sakamoto
+# Use the short description from the GitHub project
+- command: delete
+  path: description
+- command: update
+  path: baseurl
+  value: /lilypond-shamisen-ue-wo-muite-arukou
+- command: update
+  path: repository
+  value: jeandeaual/lilypond-shamisen-ue-wo-muite-arukou
+- command: update
+  path: copyright
+  value: true

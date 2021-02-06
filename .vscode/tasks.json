@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build (debug)",
+            "type": "shell",
+            "command": "lilypond *.ly",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Build (release)",
+            "type": "shell",
+            "command": "lilypond -dno-point-and-click -dembed-source-code *.ly",
+            "group": "build"
+        }
+    ]
+}

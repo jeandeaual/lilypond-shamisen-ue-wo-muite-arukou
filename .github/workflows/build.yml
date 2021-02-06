@@ -1,0 +1,55 @@
+name: build
+on:
+  pull_request:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          submodules: true
+      - name: Make the output directories
+        run: mkdir -p build/{a4,letter,svg,midi,video}
+      - name: Build A4 PDF
+        uses: docker://jeandeaual/lilypond:devel-fonts
+        with:
+          args: lilypond -dno-point-and-click -dembed-source-code -dmidi-extension="midi" -dpaper-size=\"a4\" -o build/a4 ue-wo-muite-arukou.ly
+      - name: Build Letter PDF
+        uses: docker://jeandeaual/lilypond:devel-fonts
+        with:
+          args: lilypond -dno-point-and-click -dembed-source-code -dmidi-extension="midi" -dpaper-size=\"letter\" -o build/letter ue-wo-muite-arukou.ly
+      - name: Build SVG
+        uses: docker://jeandeaual/lilypond:devel-fonts
+        with:
+          args: lilypond -dbackend=svg -dno-point-and-click -dmidi-extension="midi" -dpaper-size=\"a4\" -o build/svg ue-wo-muite-arukou.ly
+      - name: Remove extra MIDI files
+        run: |
+          cp build/a4/*.midi build/midi/
+          find . -depth -maxdepth 3 -regex '.*\/midi\/.*' -prune -o -type f -name '*.midi' -delete
+      - name: Get short SHA
+        id: slug
+        run: echo "::set-output name=sha7::$(echo ${GITHUB_SHA} | cut -c1-7)"
+      - name: Upload A4 artifact
+        uses: actions/upload-artifact@v1.0.0
+        with:
+          name: a4-${{ steps.slug.outputs.sha7 }}
+          path: build/a4
+      - name: Upload Letter artifact
+        uses: actions/upload-artifact@v1.0.0
+        with:
+          name: letter-${{ steps.slug.outputs.sha7 }}
+          path: build/letter
+      - name: Upload SVG artifact
+        uses: actions/upload-artifact@v1.0.0
+        with:
+          name: svg-${{ steps.slug.outputs.sha7 }}
+          path: build/svg
+      - name: Upload MIDI artifact
+        uses: actions/upload-artifact@v1.0.0
+        with:
+          name: midi-${{ steps.slug.outputs.sha7 }}
+          path: build/midi

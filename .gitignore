@@ -4,9 +4,10 @@
 *.svg
 *.midi
 *.mid
-*.log
 *.avi
 *.mp4
+*.log
+-.tmp.*
 
 
 ### Vim ###
