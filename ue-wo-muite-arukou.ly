@@ -2,6 +2,10 @@
 
 \include "lilypond-shamisen/shamisen.ly"
 
+first  = \markup { \typewriter \fontsize #-6 "Ⅰ" }
+second = \markup { \typewriter \fontsize #-6 "Ⅱ" }
+third  = \markup { \typewriter \fontsize #-6 "Ⅲ" }
+
 #(set-global-staff-size 36)
 
 \paper{
@@ -24,7 +28,7 @@
     \concat { "作詞　" \fromproperty #'header:pdfpoet }
   }
   author = \markup \fromproperty #'header:pdfcomposer
-  meter = "4/4 二上がり"
+  meter = "二上がり"
   tagline = ##f
   subject = \markup \concat {
     "Shamisen partition for “"
