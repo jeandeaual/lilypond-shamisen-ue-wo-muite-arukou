@@ -17,6 +17,7 @@
         \clef "treble_8"
         \numericTimeSignature
         \stripShamisenArticulations \song
+        \bar "|."
       }
       \addlyrics \verse
       \addlyrics \verseVolta

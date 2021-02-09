@@ -8,6 +8,7 @@
       \clef "treble_8"
       \numericTimeSignature
       \stripShamisenArticulations \song
+      \bar "|."
     }
     \addlyrics \verseUnfolded
     \new TabStaff \with {
