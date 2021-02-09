@@ -15,19 +15,33 @@ jobs:
       - name: Make the output directories
         run: mkdir -p build/{a4,letter,svg,midi,video}
       - name: Build A4 PDF
-        uses: docker://jeandeaual/lilypond:devel-fonts
+        uses: docker://jeandeaual/lilypond:devel-fonts-ly2video
         with:
           args: lilypond -dno-point-and-click -dembed-source-code -dmidi-extension="midi" -dpaper-size=\"a4\" -o build/a4 ue-wo-muite-arukou.ly
       - name: Build Letter PDF
-        uses: docker://jeandeaual/lilypond:devel-fonts
+        uses: docker://jeandeaual/lilypond:devel-fonts-ly2video
         with:
           args: lilypond -dno-point-and-click -dembed-source-code -dmidi-extension="midi" -dpaper-size=\"letter\" -o build/letter ue-wo-muite-arukou.ly
       - name: Build SVG
-        uses: docker://jeandeaual/lilypond:devel-fonts
+        uses: docker://jeandeaual/lilypond:devel-fonts-ly2video
         with:
           args: lilypond -dbackend=svg -dno-point-and-click -dmidi-extension="midi" -dpaper-size=\"a4\" -o build/svg ue-wo-muite-arukou.ly
-      - name: Remove extra MIDI files
+      - name: Fix includes for ly2video
+        # ly2video doesn't support include files (it doesn't copy them to its
+        # temporary directory), so replace the includes with the files' contents
+        # manually
+        run: for include in ue-wo-muite-arukou; do sed -i -e '/\\include\ \"'"${include}"'\.ily\"/r '"${include}"'.ily' -e '/\\include\ \"'"${include}"'\.ily\"/d' *.ly; done
+      - name: Build video (Bass)
+        uses: docker://jeandeaual/lilypond:devel-fonts-ly2video
+        with:
+          args: ly2video -i ue-wo-muite-arukou-video.ly -q 1 -r 300 -o build/video/ue-wo-muite-arukou.avi
+      - name: Make the video HTML5 compatible (Bass)
+        uses: docker://jeandeaual/lilypond:devel-fonts-ly2video
+        with:
+          args: ffmpeg -i build/video/ue-wo-muite-arukou.avi -c:v libx264 -pix_fmt yuv420p -movflags +faststart -c:a aac -b:a 128k -map_channel 0.1.1 -movflags +faststart build/video/ue-wo-muite-arukou.mp4
+      - name: Remove extra files
         run: |
+          rm build/video/ue-wo-muite-arukou.avi
           cp build/a4/*.midi build/midi/
           find . -depth -maxdepth 3 -regex '.*\/midi\/.*' -prune -o -type f -name '*.midi' -delete
       - name: Get short SHA
@@ -53,3 +67,8 @@ jobs:
         with:
           name: midi-${{ steps.slug.outputs.sha7 }}
           path: build/midi
+      - name: Upload video artifact
+        uses: actions/upload-artifact@v1.0.0
+        with:
+          name: video-${{ steps.slug.outputs.sha7 }}
+          path: build/video
