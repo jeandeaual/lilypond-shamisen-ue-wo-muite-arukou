@@ -7,7 +7,7 @@
 *.avi
 *.mp4
 *.log
--.tmp.*
+-*.tmp*
 
 
 ### Vim ###

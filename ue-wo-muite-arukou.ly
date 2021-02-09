@@ -2,15 +2,30 @@
 
 \include "lilypond-shamisen/shamisen.ly"
 
-first  = \markup { \typewriter \fontsize #-6 "Ⅰ" }
-second = \markup { \typewriter \fontsize #-6 "Ⅱ" }
-third  = \markup { \typewriter \fontsize #-6 "Ⅲ" }
+first = \markup {
+  \override #'(font-name . "Libertinus Serif")
+  \fontsize #-3
+  \typewriter
+  " Ⅰ"
+}
+second = \markup {
+  \override #'(font-name . "Libertinus Serif")
+  \fontsize #-3
+  \typewriter
+  " Ⅱ"
+}
+third  = \markup {
+  \override #'(font-name . "Libertinus Serif")
+  \fontsize #-3
+  \typewriter
+  " Ⅲ"
+}
 
 #(set-global-staff-size 36)
 
 \paper{
   indent = 0\mm
-  markup-system-spacing.padding = 2
+  markup-system-spacing.padding = 3
   system-system-spacing.padding = 2
   #(define fonts
     (set-global-fonts
@@ -23,11 +38,12 @@ third  = \markup { \typewriter \fontsize #-6 "Ⅲ" }
   title = "上を向いて歩こう"
   pdfcomposer = "中村八大"
   pdfpoet = "永六輔"
+  author = "坂本九"
   composer = \markup \left-column {
     \concat { "作曲　" \fromproperty #'header:pdfcomposer }
     \concat { "作詞　" \fromproperty #'header:pdfpoet }
+    \concat { "　歌　" \fromproperty #'header:author }
   }
-  author = \markup \fromproperty #'header:pdfcomposer
   meter = "二上がり"
   tagline = ##f
   subject = \markup \concat {
@@ -45,10 +61,6 @@ third  = \markup { \typewriter \fontsize #-6 "Ⅲ" }
 }
 
 main = {
-  % Hide the tuplet brackets
-  % \omit TupletBracket
-  % \omit TupletNumber
-
   % Hide the time signatures
   \omit Staff.TimeSignature
 
@@ -58,6 +70,7 @@ main = {
   e' c' g a |
   r c' r d' |
   e' c' g a |
+  \break
   r c' c' d' |
   <g e'> r e' g' |
   a' r a' g' |
@@ -65,8 +78,10 @@ main = {
   a' g' e' d' d'\sukui |
   r c' c'\sukui c' a |
   \time 4/4
+  % TODO: Replace with d'2 r when the spacing bug gets fixed
   d' r2 s4 |
   d'4 r d' c' |
+  % TODO: Replace with e'2 r when the spacing bug gets fixed
   e' r2 s4 |
   c'4 c' r a' |
   g' e' c' a |
@@ -94,10 +109,12 @@ song = {
   f'4 f' f' g' |
   a' r f' a' |
   g' r g' e' |
+  % TODO: Replace with g'2 r when the spacing bug gets fixed
   g' r2 s4 |
   f'4 f' f' g' |
   aes' r f' aes' |
   g' r e' g' |
+  % TODO: Replace with d'2 r when the spacing bug gets fixed
   d' r2 s4 |
 
   \break
@@ -110,7 +127,52 @@ song = {
 }
 
 verse = \lyricmode {
-  上 _ を 向 い て 歩 _ こ う
+  \repeat unfold 15 \skip 1
+
+  う え を む _ い て _ あ る こ う _ _
+  な み だ が こ ぼ れ な い よ う _ _ に
+  お も い だ す は る の ひ
+  ひ と り ぼ っ ち の よ る
+
+  し あ わ せ は く も の う え に
+  し あ わ せ は そ ら の う え に
+
+  う え を む _ い て _ あ る こ う _ _
+  な み だ が こ ぼ れ な い よ う _ _ に
+  な き な が ら あ _ る く
+
+  ひ と り ぼ っ ち の よ る
+  ひ と り ぼ っ ち の よ る
+}
+
+verseVolta = \lyricmode {
+  \repeat unfold 29 \skip 1
+  に じ ん だ ほ し を か ぞ え _ _ _ て
+  \repeat unfold 5 \skip 1
+  な つ
+}
+
+verseUnfolded = \lyricmode {
+  \repeat unfold 15 \skip 1
+  う え を む _ い て _ あ る こ う _ _
+  な み だ が こ ぼ れ な い よ う _ _ に
+  お も い だ す は る の ひ
+  ひ と り ぼ っ ち の よ る
+
+  う え を む _ い て _ あ る こ う _ _
+  に じ ん だ ほ し を か ぞ え _ _ _ て
+  お も い だ す な つ の ひ
+  ひ と り ぼ っ ち の よ る
+
+  し あ わ せ は く も の う え に
+  し あ わ せ は そ ら の う え に
+
+  う え を む _ い て _ あ る こ う _ _
+  な み だ が こ ぼ れ な い よ う _ _ に
+  な き な が ら あ _ る く
+
+  ひ と り ぼ っ ち の よ る
+  ひ と り ぼ っ ち の よ る
 }
 
 \layout {
@@ -125,12 +187,54 @@ verse = \lyricmode {
 }
 
 \book {
+  \header {
+    pdftitle = \markup \concat { \fromproperty #'header:title "（楽譜）" }
+    meter = \markup \left-column {
+      "4本（神仙）"
+      "二上り（調弦 C G C）"
+    }
+  }
+
+  \score {
+    \new StaffGroup <<
+      \new Staff {
+        \clef "treble_8"
+        \numericTimeSignature
+        \stripShamisenArticulations \song
+      }
+      \addlyrics \verse
+      \addlyrics \verseVolta
+      \new TabStaff \with {
+        stringTunings = #niagariTuning
+      } {
+        \song
+      }
+    >>
+    \layout {}
+  }
+
+  \score {
+    \unfoldRepeats \song
+    \midi {
+      \tempo 4 = 146
+      midiInstrument = "shamisen"
+    }
+  }
+}
+
+\book {
+  \bookOutputSuffix "tab"
+
   \paper {
     system-system-spacing =
       #'((basic-distance . 5)
          (minimum-distance . 6)
-         (padding . 2)
+         (padding . 3)
          (stretchability . 12))
+  }
+
+  \header {
+    pdftitle = \markup \fromproperty #'header:title
   }
 
   \score {
@@ -144,37 +248,38 @@ verse = \lyricmode {
       } {
         \song
       }
-      % \addlyrics \verse
     >>
-  }
-
-  \score {
-    \unfoldRepeats \song
-    \midi {
-      \tempo 4 = 146
-      midiInstrument = "shamisen"
-    }
   }
 }
 
 \book {
-  \bookOutputSuffix "score"
+  \bookOutputSuffix "lyrics-tab"
 
-  \header {
-    pdftitle = \markup \concat { \fromproperty #'header:title " (Score)" }
+  \paper {
+    system-system-spacing =
+      #'((basic-distance . 5)
+         (minimum-distance . 6)
+         (padding . 2)
+         (stretchability . 12))
   }
 
-  \new StaffGroup <<
-    \new Staff {
-      \clef "treble_8"
-      \numericTimeSignature
-      \stripShamisenArticulations \song
-    }
-    % \addlyrics \verse
-    \new TabStaff \with {
-      stringTunings = #niagariTuning
-    } {
-      \song
-    }
-  >>
+  \header {
+    pdftitle = \markup \fromproperty #'header:title
+  }
+
+  \score {
+    \new StaffGroup <<
+      % Display the system start bar even with a single staff
+      % Score.SystemStartBar.collapse-height needs to be lower than the number
+      % of staff lines
+      \override Score.SystemStartBar.collapse-height = #2
+      \new TabStaff \with {
+        stringTunings = #niagariTuning
+      } {
+        \song
+      }
+      \addlyrics \verse
+      \addlyrics \verseVolta
+    >>
+  }
 }
