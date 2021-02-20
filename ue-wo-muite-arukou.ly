@@ -39,15 +39,27 @@
   }
 }
 
+#(set-global-staff-size 36)
+
+\paper {
+  indent = 0\mm
+  markup-system-spacing.padding = 4
+  system-system-spacing =
+    #'((basic-distance . 3)
+       (minimum-distance . 3)
+       (padding . 1)
+       (stretchability . 12))
+  #(define fonts
+    (set-global-fonts
+     #:roman "IPAexGothic"
+     #:factor (/ staff-height pt 20) ; unnecessary if the staff size is default
+    ))
+}
+
 \book {
   \bookOutputSuffix "tab"
 
   \paper {
-    system-system-spacing =
-      #'((basic-distance . 5)
-         (minimum-distance . 6)
-         (padding . 2)
-         (stretchability . 12))
   }
 
   \header {
