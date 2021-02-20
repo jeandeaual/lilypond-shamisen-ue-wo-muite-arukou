@@ -22,9 +22,9 @@ third  = \markup {
   " Ⅲ"
 }
 
-#(set-global-staff-size 36)
+#(set-global-staff-size 32)
 
-\paper{
+\paper {
   indent = 0\mm
   markup-system-spacing.padding = 3
   system-system-spacing.padding = 2
@@ -66,17 +66,17 @@ main = {
   \omit Staff.TimeSignature
 
   \time 5/4
-  r c' c' d' e' |
+  r c'^\first c' d'^\first e'^\third |
   \time 4/4
   e' c' g a |
   r c' r d' |
   e' c' g a |
   \break
-  r c' c' d' |
-  <g e'> r e' g' |
-  a' r a' g' |
+  r c'^\first c' d'^\first |
+  <g e'>^\first r e' g'^\first |
+  a'^\third r a' g'^\first |
   \time 5/4
-  a' g' e' d' d'\sukui |
+  a'^\third g'^\first e' d' d'\sukui |
   r c' c'\sukui c' a |
   \time 4/4
   % TODO: Replace with d'2 r when the spacing bug gets fixed
@@ -84,21 +84,21 @@ main = {
   d'4 r d' c' |
   % TODO: Replace with e'2 r when the spacing bug gets fixed
   e' r2 s4 |
-  c'4 c' r a' |
-  g' e' c' a |
+  c'4 c' r a'^\third |
+  g'^\first e'^\first c' a |
   <g c'> q r2 |
 }
 
 song = {
   \shamisenNotation
-  \set TabStaff.tablatureFormat = #(custom-tab-format tsugaru-signs-ascii)
+  \set TabStaff.tablatureFormat = #(custom-tab-format tsugaru-signs-with-sharps-and-flats)
 
   \time 4/4
 
   r2 g4 a |
-  c' r c' d' |
-  e' c' c' e' |
-  g' r2 g'4 |
+  c'^\first r c' d'^\first |
+  e'^\third c'^\first c' e'^\first |
+  g'^\third r2 g'4 |
   g' f' e' d' |
 
   \break
@@ -107,23 +107,23 @@ song = {
 
   \break
 
-  f'4 f' f' g' |
-  a' r f' a' |
-  g' r g' e' |
+  f'4^\first f' f' g'^\first |
+  a'^\third r f'^\first a'^\third |
+  g'^\first r g' e'^\first |
   % TODO: Replace with g'2 r when the spacing bug gets fixed
-  g' r2 s4 |
-  f'4 f' f' g' |
-  aes' r f' aes' |
-  g' r e' g' |
+  g'^\third r2 s4 |
+  f'4^\first f' f' g'^\first |
+  aes'^\second r f'^\first aes'^\second |
+  g'^\first r e'^\first g'^\third |
   % TODO: Replace with d'2 r when the spacing bug gets fixed
-  d' r2 s4 |
+  d'^\first r2 s4 |
 
   \break
 
   \main
 
-  c'4 c' r a' |
-  g' e' c' a |
+  c'4 c' r a'^\third |
+  g'^\first e'^\first c' a |
   <g c'> q2 s4 |
 }
 

@@ -46,7 +46,7 @@
     system-system-spacing =
       #'((basic-distance . 5)
          (minimum-distance . 6)
-         (padding . 3)
+         (padding . 2)
          (stretchability . 12))
   }
 
