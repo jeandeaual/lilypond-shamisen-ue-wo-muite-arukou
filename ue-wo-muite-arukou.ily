@@ -66,13 +66,13 @@ main = {
   \omit Staff.TimeSignature
 
   \time 5/4
-  r c'^\first c' d'^\first e'^\third |
+  r c' c' d'^\first e'^\third |
   \time 4/4
   e' c' g a |
   r c' r d' |
   e' c' g a |
   \break
-  r c'^\first c' d'^\first |
+  r c' c' d'^\first |
   <g e'>^\first r e' g'^\first |
   a'^\third r a' g'^\first |
   \time 5/4
@@ -96,10 +96,10 @@ song = {
   \time 4/4
 
   r2 g4 a |
-  c'^\first r c' d'^\first |
-  e'^\third c'^\first c' e'^\first |
-  g'^\third r2 g'4 |
-  g' f' e' d' |
+  c' r c' d'^\first |
+  e'^\third c' c' e'^\first |
+  g'^\first r2 g'4^\third |
+  g' f'^\first e' d' |
 
   \break
 
@@ -109,14 +109,14 @@ song = {
 
   f'4^\first f' f' g'^\first |
   a'^\third r f'^\first a'^\third |
-  g'^\first r g' e'^\first |
+  g'^\first r g' e' |
   % TODO: Replace with g'2 r when the spacing bug gets fixed
-  g'^\third r2 s4 |
+  g' r2 s4 |
   f'4^\first f' f' g'^\first |
   aes'^\second r f'^\first aes'^\second |
-  g'^\first r e'^\first g'^\third |
+  g'^\first r e' g' |
   % TODO: Replace with d'2 r when the spacing bug gets fixed
-  d'^\first r2 s4 |
+  d' r2 s4 |
 
   \break
 
