@@ -3,6 +3,21 @@ on:
   pull_request:
     branches:
       - master
+    paths-ignore:
+      - 'LICENSE'
+      - '.gitignore'
+      - '**.md'
+      - '.vscode/*'
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'LICENSE'
+      - '.gitignore'
+      - '**.md'
+      - '.vscode/*'
+  workflow_dispatch:
+    inputs: {}
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -50,25 +65,91 @@ jobs:
       - name: Upload A4 artifact
         uses: actions/upload-artifact@v1.0.0
         with:
-          name: a4-${{ steps.slug.outputs.sha7 }}
+          name: ${{ github.event.repository.name }}-a4-${{ steps.slug.outputs.sha7 }}
           path: build/a4
       - name: Upload Letter artifact
         uses: actions/upload-artifact@v1.0.0
         with:
-          name: letter-${{ steps.slug.outputs.sha7 }}
+          name: ${{ github.event.repository.name }}-letter-${{ steps.slug.outputs.sha7 }}
           path: build/letter
       - name: Upload SVG artifact
         uses: actions/upload-artifact@v1.0.0
         with:
-          name: svg-${{ steps.slug.outputs.sha7 }}
+          name: ${{ github.event.repository.name }}-svg-${{ steps.slug.outputs.sha7 }}
           path: build/svg
       - name: Upload MIDI artifact
         uses: actions/upload-artifact@v1.0.0
         with:
-          name: midi-${{ steps.slug.outputs.sha7 }}
+          name: ${{ github.event.repository.name }}-midi-${{ steps.slug.outputs.sha7 }}
           path: build/midi
       - name: Upload video artifact
         uses: actions/upload-artifact@v1.0.0
         with:
-          name: video-${{ steps.slug.outputs.sha7 }}
+          name: ${{ github.event.repository.name }}-video-${{ steps.slug.outputs.sha7 }}
           path: build/video
+  deploy:
+    # Only deploy when pushing to master or manually running the workflow
+    if: (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'workflow_dispatch'
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the Jekyll template
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          repository: jeandeaual/lilypond-jekyll-template
+      - name: Get short SHA
+        id: slug
+        run: echo "::set-output name=sha7::$(echo ${GITHUB_SHA} | cut -c1-7)"
+      - name: Download the A4 build artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: ${{ github.event.repository.name }}-a4-${{ steps.slug.outputs.sha7 }}
+          path: a4
+      - name: Download the Letter build artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: ${{ github.event.repository.name }}-letter-${{ steps.slug.outputs.sha7 }}
+          path: letter
+      - name: Download the SVG build artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: ${{ github.event.repository.name }}-svg-${{ steps.slug.outputs.sha7 }}
+          path: svg
+      - name: Download the MIDI build artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: ${{ github.event.repository.name }}-midi-${{ steps.slug.outputs.sha7 }}
+          path: midi
+      - name: Download the video build artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: ${{ github.event.repository.name }}-video-${{ steps.slug.outputs.sha7 }}
+          path: video
+      - name: Update the Jekyll config
+        uses: mikefarah/yq@v4.5.1
+        with:
+          cmd: yq e -i 'del(.description) | (.title = "'"${TITLE}"'") | (.baseurl = "'"${BASEURL}"'") | (.repository = "'"${REPOSITORY}"'") | (.copyright = '"${COPYRIGHT}"')' _config.yml
+        env:
+          TITLE: “Ue wo Muite Arukō” by Kyu Sakamoto
+          BASEURL: /${{ github.event.repository.name }}
+          REPOSITORY: ${{ github.repository }}
+          COPYRIGHT: true
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+          bundler-cache: true
+        env:
+          BUNDLE_WITHOUT: development
+      - name: Build the Jekyll site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: _site
+          PRESERVE: true
