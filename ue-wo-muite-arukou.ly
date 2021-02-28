@@ -57,8 +57,8 @@
      #:roman "IPAexGothic"
      #:factor (/ staff-height pt 20) ; unnecessary if the staff size is default
     ))
-  oddHeaderMarkup = \markup \fill-line { " " \fontsize #0 \on-the-fly #not-first-page \fromproperty #'page:page-number-string }
-  evenHeaderMarkup = \markup \fill-line { \fontsize #0 \on-the-fly #not-first-page \fromproperty #'page:page-number-string " " }
+  oddHeaderMarkup = \markup \fill-line { " " \fontsize #-3 \on-the-fly #not-first-page \fromproperty #'page:page-number-string }
+  evenHeaderMarkup = \markup \fill-line { \fontsize #-3 \on-the-fly #not-first-page \fromproperty #'page:page-number-string " " }
 }
 
 \layout {

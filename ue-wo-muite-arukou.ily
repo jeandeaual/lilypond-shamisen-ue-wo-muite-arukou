@@ -22,19 +22,17 @@ third  = \markup {
   " Ⅲ"
 }
 
-#(set-global-staff-size 30)
+#(set-global-staff-size 28)
 
 \paper {
   indent = 0\mm
-  markup-system-spacing.padding = 1
-  system-system-spacing.padding = 1
+  markup-system-spacing.padding = 3
+  system-system-spacing.padding = 2
   #(define fonts
     (set-global-fonts
      #:roman "IPAexGothic"
      #:factor (/ staff-height pt 20) ; unnecessary if the staff size is default
     ))
-  oddHeaderMarkup = \markup \fill-line { " " \fontsize #0 \on-the-fly #not-first-page \fromproperty #'page:page-number-string }
-  evenHeaderMarkup = \markup \fill-line { \fontsize #0 \on-the-fly #not-first-page \fromproperty #'page:page-number-string " " }
 }
 
 scoreTitle = "上を向いて歩こう"
