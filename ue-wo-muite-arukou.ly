@@ -4,10 +4,13 @@
 
 \book {
   \header {
-    pdftitle = \markup \concat { \fromproperty #'header:title "（楽譜）" }
-    meter = \markup \left-column {
-      "4本（神仙）"
-      "二上り（調弦 C G C）"
+    pdftitle = \markup \concat { \scoreTitle "（五線譜付き）" }
+    meter = \markup {
+      \override #'(baseline-skip . 3)
+      \left-column {
+        "4本（神仙）"
+        \concat { \scoreMeter "（調弦 C G C）" }
+      }
     }
   }
 
@@ -39,11 +42,11 @@
   }
 }
 
-#(set-global-staff-size 36)
+#(set-global-staff-size 40)
 
 \paper {
   indent = 0\mm
-  markup-system-spacing.padding = 4
+  markup-system-spacing.padding = 1
   system-system-spacing =
     #'((basic-distance . 3)
        (minimum-distance . 3)
@@ -54,16 +57,34 @@
      #:roman "IPAexGothic"
      #:factor (/ staff-height pt 20) ; unnecessary if the staff size is default
     ))
+  oddHeaderMarkup = \markup \fill-line { " " \fontsize #0 \on-the-fly #not-first-page \fromproperty #'page:page-number-string }
+  evenHeaderMarkup = \markup \fill-line { \fontsize #0 \on-the-fly #not-first-page \fromproperty #'page:page-number-string " " }
+}
+
+\layout {
+  \context {
+    \Score
+    \override LyricText #'font-size = #-1
+  }
 }
 
 \book {
   \bookOutputSuffix "tab"
 
-  \paper {
-  }
-
   \header {
-    pdftitle = \markup \fromproperty #'header:title
+    title = \markup {
+      \fontsize #-3.5
+      \scoreTitle
+    }
+    composer = \markup {
+      \override #'(baseline-skip . 3)
+      \fontsize #-3.5 \left-column {
+        \concat { "作曲　" \fromproperty #'header:pdfcomposer }
+        \concat { "作詞　" \fromproperty #'header:pdfpoet }
+        \concat { "　歌　" \fromproperty #'header:author }
+      }
+    }
+    meter = \markup \fontsize #-3.5 \scoreMeter
   }
 
   \score {
@@ -84,16 +105,8 @@
 \book {
   \bookOutputSuffix "lyrics-tab"
 
-  \paper {
-    system-system-spacing =
-      #'((basic-distance . 5)
-         (minimum-distance . 6)
-         (padding . 2)
-         (stretchability . 12))
-  }
-
   \header {
-    pdftitle = \markup \fromproperty #'header:title
+    pdftitle = \markup \concat { \scoreTitle "（歌詞付き）" }
   }
 
   \score {
