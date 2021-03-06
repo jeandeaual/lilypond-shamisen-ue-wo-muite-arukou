@@ -1254,18 +1254,6 @@ tspan { white-space: pre; }
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(4.8453, 47.6203)">
-<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(4.9545, 48.2586)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
 <g transform="translate(7.9068, 47.6203)">
 <rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
 </g>
@@ -1277,10 +1265,17 @@ tspan { white-space: pre; }
 </text>
 </g>
 </g>
-<g transform="translate(4.8453, 46.5190)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(4.8453, 47.6203)">
+<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(4.9545, 48.2586)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
 </text>
+</g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
 <g transform="translate(10.9683, 47.6203)">
@@ -1455,18 +1450,6 @@ tspan { white-space: pre; }
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(4.8453, 53.7025)">
-<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(4.9545, 54.3407)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
 <g transform="translate(7.9068, 53.7025)">
 <rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
 </g>
@@ -1478,10 +1461,17 @@ tspan { white-space: pre; }
 </text>
 </g>
 </g>
-<g transform="translate(4.8453, 52.6011)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(4.8453, 53.7025)">
+<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(4.9545, 54.3407)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
 </text>
+</g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
 <g transform="translate(10.9683, 53.7025)">
