@@ -47,1849 +47,1884 @@ tspan { white-space: pre; }
 </g>
 <g transform="translate(2.8453, 16.8369)">
 <text font-family="IPAexGothic" font-size="2.2001" text-anchor="start" fill="currentColor">
-<tspan>二上がり</tspan>
+<tspan>4/4 二上がり</tspan>
 </text>
 </g>
-<g transform="translate(2.8453, 23.0828)">
+<g transform="translate(2.8453, 23.2880)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 21.5828)">
+<g transform="translate(2.8453, 21.7880)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 20.0828)">
+<g transform="translate(2.8453, 20.2880)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(24.2246, 21.5828)">
+<g transform="translate(13.5390, 21.7880)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(35.8638, 21.5828)">
+<g transform="translate(35.8638, 21.7880)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(13.5390, 21.5828)">
+<g transform="translate(24.2246, 21.7880)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(45.5161, 21.5828)">
+<g transform="translate(56.7779, 21.7880)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.7779, 21.5828)">
+<g transform="translate(45.5161, 21.7880)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(36.8246, 20.0828)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(36.9338, 20.7232)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(39.7768, 21.5828)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g transform="translate(39.3268, 21.5828)">
-<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
-</g>
-<g transform="translate(43.0461, 18.9708)">
+<g transform="translate(43.0461, 19.1760)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅲ</tspan>
 </text>
 </g>
+<g transform="translate(39.7768, 21.7880)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g transform="translate(39.3268, 21.7880)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
+</g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(43.0461, 20.0828)">
+<g transform="translate(28.0650, 20.2880)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(43.1553, 20.7232)">
+<g transform="translate(28.1742, 20.9284)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+</g>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(30.5672, 20.2880)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(30.6764, 20.9284)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(33.0694, 19.0775)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(33.0694, 20.2880)">
+<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(32.8543, 20.9519)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>♯</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(36.8246, 19.1760)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(36.8246, 20.2880)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(36.9338, 20.9284)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(28.0650, 20.0828)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(28.1742, 20.7232)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(30.5672, 20.0828)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(30.6764, 20.7232)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(33.0694, 18.8723)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(33.0694, 20.0828)">
+<g transform="translate(51.4813, 20.2880)">
 <rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(32.8543, 20.7467)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>♯</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(36.8246, 18.9708)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(51.4813, 20.0828)">
-<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(51.2662, 20.7467)">
+<g transform="translate(51.2662, 20.9519)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>♯</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(54.3079, 20.0828)">
+<g transform="translate(54.3079, 20.2880)">
 <rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(54.4171, 20.7275)">
+<g transform="translate(54.4171, 20.9327)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(48.9791, 20.0828)">
+<g transform="translate(46.4769, 20.2880)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(46.5862, 20.9284)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(43.0461, 20.2880)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(43.1553, 20.9284)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(48.9791, 19.1867)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(48.9791, 20.2880)">
 <rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(49.0884, 20.7211)">
+<g transform="translate(49.0884, 20.9263)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(46.4769, 20.0828)">
+<g transform="translate(14.4998, 20.2880)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(46.5862, 20.7232)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(48.9791, 18.9815)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(14.4998, 20.0828)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(14.6090, 20.7232)">
+<g transform="translate(14.6090, 20.9284)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(8.5646, 21.5828)">
+<g transform="translate(8.5646, 21.7880)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(8.6739, 22.2232)">
+<g transform="translate(8.6739, 22.4284)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(11.0668, 21.5828)">
+<g transform="translate(11.0668, 21.7880)">
 <rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(11.1761, 22.2275)">
+<g transform="translate(11.1761, 22.4327)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(2.8378, 21.5828)">
+<g transform="translate(2.8378, 21.7880)">
 <rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
 </g>
-<g transform="translate(5.2953, 21.5828)">
+<g transform="translate(5.2953, 21.7880)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
-<g transform="translate(4.8453, 21.5828)">
+<g transform="translate(4.8453, 21.7880)">
 <path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
 </g>
-<g transform="translate(25.2384, 18.8723)">
+<g transform="translate(21.7545, 19.1803)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(21.7545, 20.2880)">
+<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(21.8638, 20.9327)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(25.2384, 19.0775)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅲ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(25.2384, 20.0828)">
+<g transform="translate(25.2384, 20.2880)">
 <rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(25.0233, 20.7467)">
+<g transform="translate(25.0233, 20.9519)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>♯</tspan>
 </text>
 </g>
 </g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(21.7545, 20.0828)">
-<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(21.8638, 20.7275)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(21.7545, 18.9751)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g transform="translate(17.4520, 21.5828)">
+<g transform="translate(17.4520, 21.7880)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(19.2523, 20.0828)">
+<g transform="translate(19.2523, 20.2880)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(19.3616, 20.7232)">
+<g transform="translate(19.3616, 20.9284)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(2.8453, 29.8288)">
+<g transform="translate(2.8453, 29.4783)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 28.3288)">
+<g transform="translate(2.8453, 27.9783)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 26.8288)">
+<g transform="translate(2.8453, 26.4783)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(32.3632, 28.3288)">
+<g transform="translate(18.7514, 27.9783)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(19.8441, 28.3288)">
+<g transform="translate(56.7779, 27.9783)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(44.2588, 28.3288)">
+<g transform="translate(31.6332, 27.9783)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.7779, 28.3288)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(3.7786, 27.5788)">
+<g transform="translate(3.7786, 27.2283)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
 </g>
-<g transform="translate(3.7786, 29.0788)">
+<g transform="translate(3.7786, 28.7283)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
 </g>
-<g transform="translate(3.4496, 28.3288)">
+<g transform="translate(3.4496, 27.9783)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(2.8453, 28.3288)">
+<g transform="translate(2.8453, 27.9783)">
 <rect x="0.0000" y="-1.5000" width="0.4029" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(35.6557, 31.9443)">
+<g transform="translate(43.8962, 27.9783)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(40.9882, 26.4783)">
+<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(41.0974, 27.1229)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(38.7499, 27.9783)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(28.7230, 27.9783)">
+<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(28.8323, 28.6229)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(40.6621, 31.5938)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>る</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(44.9730, 26.4783)">
+<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(44.7579, 27.1421)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>♯</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(44.6469, 31.5938)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>こ</tspan>
+</text>
+</g>
+<g transform="translate(33.1214, 27.9783)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(35.3597, 26.4783)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(35.4690, 27.1186)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(35.0336, 31.5938)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>あ</tspan>
 </text>
 </g>
-<g transform="translate(39.2854, 28.3288)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(35.9818, 26.8288)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(36.0910, 27.4691)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(41.4373, 26.8288)">
+<g transform="translate(53.8678, 27.9783)">
 <rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(41.5465, 27.4734)">
+<g transform="translate(53.9770, 28.6229)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(41.1112, 31.9443)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>る</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(45.3189, 26.8288)">
-<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(45.1038, 27.4926)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>♯</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(44.9928, 31.9443)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>こ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(29.5395, 28.3288)">
-<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(29.6488, 28.9734)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(33.8299, 28.3288)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(53.9543, 28.3288)">
-<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(54.0635, 28.9734)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(48.4969, 26.8288)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(48.6062, 27.4691)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(48.6062, 31.9443)">
+<g transform="translate(48.3467, 31.5938)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>う</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(51.1006, 28.3288)">
+<g transform="translate(48.2375, 26.4783)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(51.2098, 28.9691)">
+<g transform="translate(48.3467, 27.1186)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(8.1372, 26.8288)">
+<g transform="translate(50.9276, 27.9783)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(8.2464, 27.4691)">
+<g transform="translate(51.0369, 28.6186)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(7.8111, 31.9443)">
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(8.2236, 26.4783)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(8.3329, 27.1186)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(7.8976, 31.5938)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>う</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(10.9908, 26.8288)">
+<g transform="translate(11.1638, 26.4783)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(11.1001, 27.4691)">
+<g transform="translate(11.2730, 27.1186)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(10.6648, 31.9443)">
+<g transform="translate(10.8377, 31.5938)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>え</tspan>
 </text>
 </g>
-<g transform="translate(13.8445, 25.7210)">
+<g transform="translate(14.1039, 25.3705)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅰ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(13.8445, 26.8288)">
+<g transform="translate(14.1039, 26.4783)">
 <rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(13.9538, 27.4734)">
+<g transform="translate(14.2132, 27.1229)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(13.5185, 31.9443)">
+<g transform="translate(13.7779, 31.5938)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>を</tspan>
 </text>
 </g>
-<g transform="translate(2.8378, 28.3288)">
+<g transform="translate(14.7595, 27.9783)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M-0.5500 -0.6297L0.5500 -0.6297"/>
+</g>
+<g transform="translate(16.4062, 25.2678)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅲ</tspan>
+</text>
+</g>
+<g transform="translate(2.8378, 27.9783)">
 <rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
 </g>
-<g transform="translate(5.9853, 28.3288)">
+<g transform="translate(5.9853, 27.9783)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
-<g transform="translate(23.7561, 31.9443)">
+<g transform="translate(22.7666, 31.5938)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>い</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(24.0822, 26.8288)">
+<g transform="translate(23.0927, 26.4783)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(24.1915, 27.4691)">
+<g transform="translate(23.2020, 27.1186)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(16.6982, 25.6183)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅲ</tspan>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(25.7829, 27.9783)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(25.8921, 28.6186)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
 </text>
 </g>
+</g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(16.6982, 26.8288)">
+<g transform="translate(19.8282, 26.4783)">
 <rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(16.4831, 27.4926)">
+<g transform="translate(19.6131, 27.1421)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>♯</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(20.9042, 26.8288)">
+<g transform="translate(16.4062, 26.4783)">
 <rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(20.6891, 27.4926)">
+<g transform="translate(16.1911, 27.1421)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>♯</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(16.4831, 31.9443)">
+<g transform="translate(25.8921, 31.5938)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>て</tspan>
+</text>
+</g>
+<g transform="translate(17.0618, 27.9783)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M-0.5500 -0.4910L0.5500 -0.4910"/>
+</g>
+<g transform="translate(16.1911, 31.5938)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>む</tspan>
 </text>
 </g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(26.6859, 28.3288)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(26.7951, 28.9691)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(26.7951, 31.9443)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>て</tspan>
-</text>
-</g>
-<g transform="translate(2.8453, 38.1307)">
+<g transform="translate(2.8453, 37.7801)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 36.6307)">
+<g transform="translate(2.8453, 36.2801)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 35.1307)">
+<g transform="translate(2.8453, 34.7801)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(28.8703, 36.6307)">
+<g transform="translate(29.7204, 36.2801)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(41.1035, 36.6307)">
+<g transform="translate(42.3951, 36.2801)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(16.0215, 36.6307)">
+<g transform="translate(16.4356, 36.2801)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.7779, 36.6307)">
+<g transform="translate(56.7779, 36.2801)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(42.1604, 34.0110)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅲ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(42.1604, 35.1307)">
-<rect x="0.1093" y="-0.6566" width="1.0926" height="1.3132" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(42.2697, 35.7719)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>8</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(41.8343, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>よ</tspan>
-</text>
-</g>
-<g transform="translate(42.2697, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>え</tspan>
-</text>
-</g>
-<g transform="translate(37.9445, 43.1553)">
+<g transform="translate(39.1326, 42.8048)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>ぞ</tspan>
 </text>
 </g>
-<g transform="translate(45.0255, 34.0186)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g transform="translate(33.2423, 36.6307)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(45.0255, 35.1307)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(45.1347, 35.7710)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(35.4055, 35.1307)">
-<rect x="0.1093" y="-0.6566" width="1.0926" height="1.3132" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(35.5148, 35.7719)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>8</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(35.0794, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>な</tspan>
-</text>
-</g>
-<g transform="translate(35.0794, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>か</tspan>
-</text>
-</g>
-<g transform="translate(38.2706, 34.0186)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(38.2706, 35.1307)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(38.3798, 35.7710)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(37.9445, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>い</tspan>
-</text>
-</g>
-<g transform="translate(45.1347, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>う</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(47.8905, 35.1307)">
-<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(47.6754, 35.7945)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>♯</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(51.0800, 35.1307)">
-<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(51.1892, 35.7753)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(54.5971, 37.3807)">
-<path stroke-width="0.1200" stroke-linejoin="miter" stroke-linecap="square" stroke="currentColor" fill="none" d="M-0.4120 -0.4220L0.2280 -0.4270L0.2680 -0.3860C0.1100 0.0460 -0.1310 0.2760 -0.4870 0.4570M0.4940 0.4340C0.3790 0.3130 0.2470 0.1870 0.0440 0.0360"/>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(53.9450, 35.1307)">
-<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(54.0543, 35.7753)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(53.6190, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>に</tspan>
-</text>
-</g>
-<g transform="translate(53.6190, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>て</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(7.4585, 35.1307)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(7.5678, 35.7710)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(7.1324, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>な</tspan>
-</text>
-</g>
-<g transform="translate(7.1324, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>に</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(10.3236, 35.1307)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(10.4328, 35.7710)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(9.9975, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>み</tspan>
-</text>
-</g>
-<g transform="translate(9.9975, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>じ</tspan>
-</text>
-</g>
-<g transform="translate(13.1886, 34.0229)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(13.1886, 35.1307)">
-<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(13.2979, 35.7753)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(12.8626, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>だ</tspan>
-</text>
-</g>
-<g transform="translate(12.8626, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>ん</tspan>
-</text>
-</g>
-<g transform="translate(17.0453, 33.9202)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(17.0453, 36.6307)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(17.1546, 37.2710)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(17.0453, 35.1307)">
-<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(16.8302, 35.7945)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>♯</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(2.8378, 36.6307)">
-<rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
-</g>
-<g transform="translate(5.2953, 36.6307)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g transform="translate(25.7113, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>ぼ</tspan>
-</text>
-</g>
-<g transform="translate(16.7193, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>が</tspan>
-</text>
-</g>
-<g transform="translate(22.5219, 40.3553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>こ</tspan>
-</text>
-</g>
-<g transform="translate(22.5219, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>ほ</tspan>
-</text>
-</g>
-<g transform="translate(26.0374, 34.0186)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(26.0374, 35.1307)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(26.1466, 35.7710)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(22.8480, 35.1307)">
-<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(22.6329, 35.7945)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>♯</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(25.7113, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>し</tspan>
-</text>
-</g>
-<g transform="translate(29.9272, 34.0110)">
+<g transform="translate(43.4794, 33.6604)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅲ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(29.9272, 35.1307)">
+<g transform="translate(43.4794, 34.7801)">
 <rect x="0.1093" y="-0.6566" width="1.0926" height="1.3132" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(30.0365, 35.7719)">
+<g transform="translate(43.5887, 35.4214)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>8</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(29.6012, 40.3553)">
+<g transform="translate(43.1534, 40.0048)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>れ</tspan>
+<tspan>よ</tspan>
 </text>
 </g>
-<g transform="translate(29.6012, 43.1553)">
+<g transform="translate(43.5887, 42.8048)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>を</tspan>
+<tspan>え</tspan>
 </text>
 </g>
-<g transform="translate(16.7193, 43.1553)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>だ</tspan>
+<g transform="translate(46.4480, 33.6681)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
 </text>
-</g>
-<g transform="translate(20.6847, 36.6307)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g transform="translate(2.8453, 47.8765)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
-</g>
-<g transform="translate(2.8453, 46.3765)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
-</g>
-<g transform="translate(2.8453, 44.8765)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
-</g>
-<g transform="translate(56.7779, 46.3765)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(44.9934, 46.3765)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(19.6059, 46.3765)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(31.3904, 46.3765)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(38.3637, 44.8765)">
+<g transform="translate(46.4480, 34.7801)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(46.5573, 35.4205)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(46.5573, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>う</tspan>
+</text>
+</g>
+<g transform="translate(34.2233, 36.2801)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(36.4901, 34.7801)">
+<rect x="0.1093" y="-0.6566" width="1.0926" height="1.3132" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(36.5993, 35.4214)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(36.1640, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>な</tspan>
+</text>
+</g>
+<g transform="translate(36.1640, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>か</tspan>
+</text>
+</g>
+<g transform="translate(39.4587, 33.6681)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(39.4587, 34.7801)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(39.5679, 35.4205)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(39.1326, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>い</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(49.4166, 34.7801)">
+<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(49.2015, 35.4440)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>♯</tspan>
+</text>
+</g>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(52.7095, 34.7801)">
 <rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(38.4730, 45.5212)">
+<g transform="translate(52.8188, 35.4248)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(38.0377, 50.0035)">
+<g transform="translate(53.3651, 36.2801)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M-0.5500 -0.6297L0.5500 -0.6297"/>
+</g>
+<g transform="translate(55.3958, 37.0301)">
+<path stroke-width="0.1200" stroke-linejoin="miter" stroke-linecap="square" stroke="currentColor" fill="none" d="M-0.4120 -0.4220L0.2280 -0.4270L0.2680 -0.3860C0.1100 0.0460 -0.1310 0.2760 -0.4870 0.4570M0.4940 0.4340C0.3790 0.3130 0.2470 0.1870 0.0440 0.0360"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(54.7437, 34.7801)">
+<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(54.8530, 35.4248)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(54.4177, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>に</tspan>
+</text>
+</g>
+<g transform="translate(54.4177, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>て</tspan>
+</text>
+</g>
+<g transform="translate(55.3993, 36.2801)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M-0.5500 -0.6297L0.5500 -0.6297"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(7.5620, 34.7801)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(7.6713, 35.4205)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(7.2359, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>な</tspan>
+</text>
+</g>
+<g transform="translate(7.2359, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>に</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(10.5306, 34.7801)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(10.6398, 35.4205)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(10.2045, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>み</tspan>
+</text>
+</g>
+<g transform="translate(10.2045, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>じ</tspan>
+</text>
+</g>
+<g transform="translate(13.4992, 33.6724)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(13.4992, 34.7801)">
+<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(13.6084, 35.4248)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(13.1731, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>だ</tspan>
+</text>
+</g>
+<g transform="translate(13.1731, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>ん</tspan>
+</text>
+</g>
+<g transform="translate(17.4814, 33.5696)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(17.4814, 36.2801)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(17.5906, 36.9205)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+</g>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(17.4814, 34.7801)">
+<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(17.2663, 35.4440)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>♯</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(2.8378, 36.2801)">
+<rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
+</g>
+<g transform="translate(5.2953, 36.2801)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g transform="translate(26.4579, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>ぼ</tspan>
+</text>
+</g>
+<g transform="translate(17.1553, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>が</tspan>
+</text>
+</g>
+<g transform="translate(23.1650, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>こ</tspan>
+</text>
+</g>
+<g transform="translate(23.1650, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>ほ</tspan>
+</text>
+</g>
+<g transform="translate(26.7840, 33.6681)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(26.7840, 34.7801)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(26.8932, 35.4205)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(23.4910, 34.7801)">
+<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(23.2759, 35.4440)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>♯</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(26.4579, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>し</tspan>
+</text>
+</g>
+<g transform="translate(30.8048, 33.6604)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅲ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(30.8048, 34.7801)">
+<rect x="0.1093" y="-0.6566" width="1.0926" height="1.3132" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(30.9140, 35.4214)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(30.4787, 40.0048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>れ</tspan>
+</text>
+</g>
+<g transform="translate(30.4787, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>を</tspan>
+</text>
+</g>
+<g transform="translate(21.2243, 36.2801)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g transform="translate(17.1553, 42.8048)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>だ</tspan>
+</text>
+</g>
+<g transform="translate(2.8453, 49.2658)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
+</g>
+<g transform="translate(2.8453, 47.7658)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
+</g>
+<g transform="translate(2.8453, 46.2658)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
+</g>
+<g transform="translate(56.7779, 47.7658)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(43.9143, 47.7658)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(17.7761, 47.7658)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(30.6397, 47.7658)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(44.6773, 51.3928)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>ひ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(37.4499, 46.2658)">
+<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(37.5591, 46.9104)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(37.1238, 51.3928)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>る</tspan>
 </text>
 </g>
-<g transform="translate(38.0377, 52.8035)">
+<g transform="translate(37.1238, 54.1928)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>つ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(41.9671, 44.8765)">
+<g transform="translate(40.9600, 46.2658)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(42.0763, 45.5169)">
+<g transform="translate(41.0693, 46.9062)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(41.6410, 50.0035)">
+<g transform="translate(40.6339, 51.3928)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>の</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(32.4986, 44.8765)">
-<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(32.6078, 45.5212)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(32.1725, 50.0035)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>は</tspan>
-</text>
-</g>
-<g transform="translate(32.1725, 52.8035)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>な</tspan>
-</text>
-</g>
-<g transform="translate(36.0071, 46.3765)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g transform="translate(45.7755, 50.0035)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>ひ</tspan>
-</text>
-</g>
-<g transform="translate(46.7571, 46.3765)">
-<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(46.1016, 44.8765)">
+<g transform="translate(45.0034, 46.2658)">
 <rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(45.8865, 45.5403)">
+<g transform="translate(44.7883, 46.9296)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>♯</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(52.5592, 46.3765)">
+<g transform="translate(7.6892, 44.5169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1074" stroke="currentColor" x1="6.2191" y1="-0.0000" x2="6.2191" y2="1.0500"/>
+</g>
+<g transform="translate(7.6892, 44.5169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1074" stroke="currentColor" x1="-0.3000" y1="-0.0000" x2="-0.3000" y2="1.0500"/>
+</g>
+<g transform="translate(7.6892, 44.5169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1074" stroke="currentColor" x1="6.2191" y1="-0.0000" x2="4.1058" y2="-0.0000"/>
+</g>
+<g transform="translate(7.6892, 44.5169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1074" stroke="currentColor" x1="-0.3000" y1="-0.0000" x2="2.0132" y2="-0.0000"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(31.7288, 46.2658)">
+<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(31.8381, 46.9104)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(31.4027, 51.3928)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>は</tspan>
+</text>
+</g>
+<g transform="translate(31.4027, 54.1928)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>な</tspan>
+</text>
+</g>
+<g transform="translate(35.1653, 47.7658)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
-<g transform="translate(52.1092, 46.3765)">
+<g transform="translate(10.1024, 45.1572)">
+<text font-family="IPAexGothic" font-style="italic" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+<g transform="translate(45.6590, 47.7658)">
 <path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
 </g>
-<g transform="translate(5.2953, 46.3765)">
+<g transform="translate(51.2861, 47.7658)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g transform="translate(50.8361, 47.7658)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
+</g>
+<g transform="translate(5.2953, 47.7658)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(7.6519, 44.8765)">
+<g transform="translate(7.5799, 46.2658)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(7.7612, 45.5169)">
+<g transform="translate(7.6892, 46.9062)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(7.3259, 50.0035)">
+<g transform="translate(7.2538, 51.3928)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>お</tspan>
 </text>
 </g>
-<g transform="translate(11.3625, 47.1265)">
+<g transform="translate(10.6452, 48.5158)">
 <path stroke-width="0.1200" stroke-linejoin="miter" stroke-linecap="square" stroke="currentColor" fill="none" d="M-0.4120 -0.4220L0.2280 -0.4270L0.2680 -0.3860C0.1100 0.0460 -0.1310 0.2760 -0.4870 0.4570M0.4940 0.4340C0.3790 0.3130 0.2470 0.1870 0.0440 0.0360"/>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(10.7104, 44.8765)">
+<g transform="translate(9.9931, 46.2658)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(10.8197, 45.5169)">
+<g transform="translate(10.1024, 46.9062)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(10.3843, 50.0035)">
+<g transform="translate(9.6671, 51.3928)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>も</tspan>
 </text>
 </g>
-<g transform="translate(2.8378, 46.3765)">
+<g transform="translate(2.8378, 47.7658)">
 <rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
 </g>
-<g transform="translate(27.1717, 46.3765)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g transform="translate(26.7217, 46.3765)">
-<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
-</g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(20.7141, 44.8765)">
-<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(20.8233, 45.5212)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(13.7689, 44.8765)">
+<g transform="translate(12.4064, 46.2658)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(13.8782, 45.5169)">
+<g transform="translate(12.5156, 46.9062)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(20.3880, 50.0035)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>す</tspan>
-</text>
-</g>
-<g transform="translate(21.3696, 46.3765)">
-<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
-</g>
-<g transform="translate(13.4428, 50.0035)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>い</tspan>
-</text>
-</g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(16.5774, 46.3765)">
+<g transform="translate(18.8652, 46.2658)">
 <rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(16.6867, 47.0212)">
+<g transform="translate(18.9744, 46.9104)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(16.2513, 50.0035)">
+<g transform="translate(18.5391, 51.3928)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>す</tspan>
+</text>
+</g>
+<g transform="translate(19.5207, 47.7658)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
+</g>
+<g transform="translate(12.0803, 51.3928)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>い</tspan>
+</text>
+</g>
+<g transform="translate(25.1479, 47.7658)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g transform="translate(24.6979, 47.7658)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(14.8196, 47.7658)">
+<rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(14.9289, 48.4104)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(14.4935, 51.3928)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>だ</tspan>
 </text>
 </g>
-<g transform="translate(2.8453, 57.3663)">
+<g transform="translate(2.8453, 58.7556)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 55.8663)">
+<g transform="translate(2.8453, 57.2556)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 54.3663)">
+<g transform="translate(2.8453, 55.7556)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(55.5155, 55.1163)">
+<g transform="translate(55.5155, 56.5056)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
 </g>
-<g transform="translate(55.5155, 56.6163)">
+<g transform="translate(55.5155, 58.0056)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
 </g>
-<g transform="translate(56.5027, 55.8663)">
+<g transform="translate(56.5027, 57.2556)">
 <rect x="0.0000" y="-1.5000" width="0.4029" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.1737, 55.8663)">
+<g transform="translate(56.1737, 57.2556)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(20.5410, 55.8663)">
+<g transform="translate(20.2426, 57.2556)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(37.9215, 55.8663)">
+<g transform="translate(37.3049, 57.2556)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(25.8923, 53.1558)">
+<g transform="translate(25.4995, 54.5451)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅰ</tspan>
 </text>
 </g>
-<g transform="translate(38.9202, 59.5910)">
+<g transform="translate(38.2839, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>よ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(39.2463, 54.3663)">
+<g transform="translate(38.6100, 55.7556)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(39.3556, 55.0067)">
+<g transform="translate(38.7193, 56.3960)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(39.2463, 55.8663)">
+<g transform="translate(38.6100, 57.2556)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(39.3556, 56.5067)">
+<g transform="translate(38.7193, 57.8960)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(33.6304, 59.5910)">
+<g transform="translate(33.0885, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>の</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(33.9565, 55.8663)">
+<g transform="translate(33.4146, 57.2556)">
 <rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(34.0658, 56.5110)">
+<g transform="translate(33.5238, 57.9003)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(29.8855, 59.5910)">
+<g transform="translate(29.4182, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>ち</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(30.2116, 54.3663)">
+<g transform="translate(29.7442, 55.7556)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(30.3208, 55.0067)">
+<g transform="translate(29.8535, 56.3960)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(25.5662, 59.5910)">
+<g transform="translate(25.1735, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>っ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(25.8923, 54.3663)">
+<g transform="translate(25.4995, 55.7556)">
 <rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(25.6772, 55.0302)">
+<g transform="translate(25.2844, 56.4194)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>♯</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(48.5068, 55.8663)">
+<g transform="translate(47.6993, 57.2556)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
-<g transform="translate(48.0568, 55.8663)">
+<g transform="translate(47.2493, 57.2556)">
 <path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
 </g>
-<g transform="translate(42.9152, 59.5910)">
+<g transform="translate(42.2043, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>る</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(43.2412, 54.3663)">
+<g transform="translate(42.5303, 55.7556)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(43.3505, 55.0067)">
+<g transform="translate(42.6396, 56.3960)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(43.2412, 55.8663)">
+<g transform="translate(42.5303, 57.2556)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(43.3505, 56.5067)">
+<g transform="translate(42.6396, 57.8960)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(4.8453, 54.3663)">
+<g transform="translate(4.8453, 55.7556)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(4.9545, 55.0067)">
+<g transform="translate(4.9545, 56.3960)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(4.5192, 59.5910)">
+<g transform="translate(4.5192, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>ひ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(8.8402, 54.3663)">
+<g transform="translate(8.7656, 55.7556)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(8.9495, 55.0067)">
+<g transform="translate(8.8749, 56.3960)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(8.5141, 59.5910)">
+<g transform="translate(8.4395, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>と</tspan>
 </text>
 </g>
-<g transform="translate(13.2851, 55.8663)">
+<g transform="translate(13.1359, 57.2556)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
-<g transform="translate(2.8378, 55.8663)">
+<g transform="translate(2.8378, 57.2556)">
 <rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
 </g>
-<g transform="translate(21.5713, 59.5910)">
+<g transform="translate(21.2531, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>ぼ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(21.8974, 54.3663)">
+<g transform="translate(21.5792, 55.7556)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(22.0066, 55.0067)">
+<g transform="translate(21.6885, 56.3960)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(21.8974, 53.2543)">
+<g transform="translate(21.5792, 54.6436)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅰ</tspan>
 </text>
 </g>
-<g transform="translate(16.2522, 59.5910)">
+<g transform="translate(16.0284, 60.9803)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>り</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(16.5782, 54.3663)">
+<g transform="translate(16.3544, 55.7556)">
 <rect x="0.1093" y="-0.6566" width="1.0926" height="1.3132" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(16.6875, 55.0076)">
+<g transform="translate(16.4637, 56.3968)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>8</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(16.5782, 53.2466)">
+<g transform="translate(16.3544, 54.6359)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅲ</tspan>
 </text>
 </g>
-<g transform="translate(2.8453, 65.6873)">
+<g transform="translate(2.8453, 67.0766)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 64.1873)">
+<g transform="translate(2.8453, 65.5766)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(2.8453, 62.6873)">
+<g transform="translate(2.8453, 64.0766)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
 </g>
-<g transform="translate(17.6024, 64.1873)">
+<g transform="translate(17.0591, 65.5766)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.7779, 64.1873)">
+<g transform="translate(56.7779, 65.5766)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(31.2526, 64.1873)">
+<g transform="translate(30.1301, 65.5766)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(45.2272, 64.1873)">
+<g transform="translate(43.5255, 65.5766)">
 <rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(36.0449, 64.1873)">
+<g transform="translate(34.7506, 65.5766)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
+<g transform="translate(27.1008, 62.9569)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅲ</tspan>
+</text>
+</g>
+<g transform="translate(39.8457, 69.1921)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>え</tspan>
+</text>
+</g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(38.5403, 62.6873)">
+<g transform="translate(37.1103, 64.0766)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(38.6496, 63.3277)">
+<g transform="translate(37.2195, 64.7169)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(38.2143, 67.8029)">
+<g transform="translate(36.7842, 69.1921)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>う</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(41.7377, 62.6873)">
+<g transform="translate(40.1718, 64.0766)">
 <rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(41.5225, 63.3511)">
+<g transform="translate(39.9567, 64.7404)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>♯</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(41.4116, 67.8029)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>え</tspan>
-</text>
-</g>
-<g transform="translate(28.0874, 61.5676)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅲ</tspan>
-</text>
-</g>
-<g transform="translate(32.0715, 67.8029)">
+<g transform="translate(30.9130, 69.1921)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>の</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(28.0874, 62.6873)">
+<g transform="translate(27.1008, 64.0766)">
 <rect x="0.1093" y="-0.6566" width="1.0926" height="1.3132" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(28.1967, 63.3285)">
+<g transform="translate(27.2100, 64.7178)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>8</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(27.7614, 67.8029)">
+<g transform="translate(26.7747, 69.1921)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>も</tspan>
 </text>
 </g>
-<g transform="translate(32.3976, 61.5753)">
+<g transform="translate(31.2391, 62.9646)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅰ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(32.3976, 62.6873)">
+<g transform="translate(31.2391, 64.0766)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(32.5068, 63.3277)">
+<g transform="translate(31.3484, 64.7169)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(46.3721, 62.6873)">
+<g transform="translate(44.6345, 64.0766)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(46.4814, 63.3277)">
+<g transform="translate(44.7437, 64.7169)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(46.0461, 67.8029)">
+<g transform="translate(44.3084, 69.1921)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>に</tspan>
 </text>
 </g>
-<g transform="translate(50.0195, 64.1873)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g transform="translate(49.5695, 64.1873)">
+<g transform="translate(45.2900, 65.5766)">
 <path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
 </g>
-<g transform="translate(4.5192, 67.8029)">
+<g transform="translate(51.0994, 65.5766)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g transform="translate(50.6494, 65.5766)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(4.8453, 64.0766)">
+<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(4.9545, 64.7148)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(4.5192, 69.1921)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>し</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(8.0426, 62.6873)">
+<g transform="translate(7.9068, 64.0766)">
 <rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(8.1518, 63.3255)">
+<g transform="translate(8.0160, 64.7148)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(7.7165, 67.8029)">
+<g transform="translate(7.5807, 69.1921)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>あ</tspan>
 </text>
 </g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(4.8453, 62.6873)">
-<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(4.9545, 63.3255)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(11.2399, 62.6873)">
-<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(11.3492, 63.3255)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(10.9138, 67.8029)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>わ</tspan>
-</text>
-</g>
-<g transform="translate(14.4372, 61.5753)">
+<g transform="translate(4.8453, 62.9752)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅰ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(14.4372, 62.6873)">
+<g transform="translate(10.9683, 64.0766)">
+<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(11.0775, 64.7148)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(10.6422, 69.1921)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>わ</tspan>
+</text>
+</g>
+<g transform="translate(14.0298, 62.9646)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(14.0298, 64.0766)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(14.5465, 63.3277)">
+<g transform="translate(14.1390, 64.7169)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(14.1111, 67.8029)">
+<g transform="translate(2.8378, 65.5766)">
+<rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
+</g>
+<g transform="translate(13.7037, 69.1921)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>せ</tspan>
 </text>
 </g>
-<g transform="translate(2.8378, 64.1873)">
-<rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
-</g>
-<g transform="translate(4.8453, 61.5860)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g transform="translate(22.3947, 64.1873)">
+<g transform="translate(21.6796, 65.5766)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
-<g transform="translate(24.8901, 61.5860)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(24.8901, 62.6873)">
-<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(24.9994, 63.3255)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(24.5641, 67.8029)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>く</tspan>
-</text>
-</g>
-<g transform="translate(18.4213, 67.8029)">
+<g transform="translate(17.8420, 69.1921)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>は</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(18.7473, 62.6873)">
+<g transform="translate(18.1681, 64.0766)">
 <rect x="0.1093" y="-0.6566" width="1.0926" height="1.3132" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(18.8566, 63.3285)">
+<g transform="translate(18.2774, 64.7178)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>8</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(18.7473, 61.5676)">
+<g transform="translate(18.1681, 62.9569)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅲ</tspan>
 </text>
 </g>
-<g transform="translate(2.8453, 73.9327)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
-</g>
-<g transform="translate(2.8453, 72.4327)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
-</g>
-<g transform="translate(2.8453, 70.9327)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
-</g>
-<g transform="translate(56.7779, 72.4327)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(17.6024, 72.4327)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(31.2526, 72.4327)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(45.2272, 72.4327)">
-<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(36.0449, 72.4327)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(38.5403, 70.9327)">
-<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(38.3252, 71.5965)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>♯</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(38.2143, 77.9327)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>う</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(42.0620, 70.9327)">
-<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(42.1713, 71.5730)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(41.7359, 77.9327)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>え</tspan>
-</text>
-</g>
-<g transform="translate(28.0874, 69.8373)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅱ</tspan>
-</text>
-</g>
-<g transform="translate(32.0715, 77.9327)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>の</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(28.0874, 70.9327)">
-<rect x="0.1093" y="-0.6323" width="1.0926" height="1.2646" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(28.1967, 71.5649)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>7</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(27.7614, 77.9327)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>ら</tspan>
-</text>
-</g>
-<g transform="translate(32.3976, 69.8206)">
+<g transform="translate(24.0393, 62.9752)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅰ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(32.3976, 70.9327)">
+<g transform="translate(24.0393, 64.0766)">
+<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(24.1485, 64.7148)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(23.7132, 69.1921)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>く</tspan>
+</text>
+</g>
+<g transform="translate(2.8453, 75.3219)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
+</g>
+<g transform="translate(2.8453, 73.8219)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
+</g>
+<g transform="translate(2.8453, 72.3219)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0671" stroke="currentColor" x1="0.0336" y1="0" x2="54.0267" y2="0"/>
+</g>
+<g transform="translate(17.0591, 73.8219)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(56.7779, 73.8219)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(30.1301, 73.8219)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(43.5255, 73.8219)">
+<rect x="0.0000" y="-1.5000" width="0.1276" height="3.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(34.7506, 73.8219)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g transform="translate(27.1008, 71.2266)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅱ</tspan>
+</text>
+</g>
+<g transform="translate(40.1701, 79.3219)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>え</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(37.1103, 72.3219)">
+<rect x="-0.2151" y="-0.7474" width="1.7413" height="1.4948" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(36.8952, 72.9858)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>♯</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(36.7842, 79.3219)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>う</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(40.4961, 72.3219)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(32.5068, 71.5730)">
+<g transform="translate(40.6054, 72.9623)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(30.9130, 79.3219)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>の</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(27.1008, 72.3219)">
+<rect x="0.1093" y="-0.6323" width="1.0926" height="1.2646" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(27.2100, 72.9542)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(26.7747, 79.3219)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>ら</tspan>
+</text>
+</g>
+<g transform="translate(31.2391, 71.2099)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(31.2391, 72.3219)">
+<rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(31.3484, 72.9623)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(46.3721, 70.9327)">
+<g transform="translate(44.6345, 72.3219)">
 <rect x="0.1093" y="-0.6446" width="1.0926" height="1.2893" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(46.4814, 71.5773)">
+<g transform="translate(44.7437, 72.9666)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(46.0461, 77.9327)">
+<g transform="translate(44.3084, 79.3219)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>に</tspan>
 </text>
 </g>
-<g transform="translate(50.0195, 72.4327)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
-</g>
-<g transform="translate(49.5695, 72.4327)">
+<g transform="translate(45.2900, 73.8219)">
 <path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
 </g>
-<g transform="translate(4.5192, 77.9327)">
+<g transform="translate(51.0994, 73.8219)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
+</g>
+<g transform="translate(50.6494, 73.8219)">
+<path stroke-width="0.1200" stroke-linejoin="round" stroke-linecap="square" stroke="currentColor" fill="none" d="M2 -0.6700l1 0"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(4.8453, 72.3219)">
+<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(4.9545, 72.9602)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(4.5192, 79.3219)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>し</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(8.0426, 70.9327)">
+<g transform="translate(7.9068, 72.3219)">
 <rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(8.1518, 71.5709)">
+<g transform="translate(8.0160, 72.9602)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(7.7165, 77.9327)">
+<g transform="translate(7.5807, 79.3219)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>あ</tspan>
 </text>
 </g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(4.8453, 70.9327)">
-<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(4.9545, 71.5709)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
-</text>
-</g>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(11.2399, 70.9327)">
-<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(11.3492, 71.5709)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>4</tspan>
-</text>
-</g>
-</g>
-<g transform="translate(10.9138, 77.9327)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>わ</tspan>
-</text>
-</g>
-<g transform="translate(14.4372, 69.8206)">
+<g transform="translate(4.8453, 71.2206)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅰ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(14.4372, 70.9327)">
+<g transform="translate(10.9683, 72.3219)">
+<rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(11.0775, 72.9602)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(10.6422, 79.3219)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>わ</tspan>
+</text>
+</g>
+<g transform="translate(14.0298, 71.2099)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅰ</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(14.0298, 72.3219)">
 <rect x="0.1093" y="-0.6489" width="1.0926" height="1.2978" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(14.5465, 71.5730)">
+<g transform="translate(14.1390, 72.9623)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(14.1111, 77.9327)">
+<g transform="translate(2.8378, 73.8219)">
+<rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
+</g>
+<g transform="translate(13.7037, 79.3219)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>せ</tspan>
 </text>
 </g>
-<g transform="translate(2.8378, 72.4327)">
-<rect x="0.0000" y="-1.5336" width="0.1074" height="3.0671" ry="0.0336" fill="currentColor"/>
-</g>
-<g transform="translate(4.8453, 69.8313)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅰ</tspan>
-</text>
-</g>
-<g transform="translate(22.3947, 72.4327)">
+<g transform="translate(21.6796, 73.8219)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4500"/>
 </g>
-<g transform="translate(24.8901, 69.8313)">
+<g transform="translate(17.8420, 79.3219)">
+<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
+<tspan>は</tspan>
+</text>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(18.1681, 72.3219)">
+<rect x="0.1093" y="-0.6323" width="1.0926" height="1.2646" ry="0.0000" fill="currentColor"/>
+</g>
+</g>
+<g transform="scale(1.0000, 1.0000)">
+<g transform="translate(18.2774, 72.9542)">
+<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+</g>
+</g>
+<g transform="translate(18.1681, 71.2266)">
+<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
+<tspan> Ⅱ</tspan>
+</text>
+</g>
+<g transform="translate(24.0393, 71.2206)">
 <text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
 <tspan> Ⅰ</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(24.8901, 70.9327)">
+<g transform="translate(24.0393, 72.3219)">
 <rect x="0.1093" y="-0.6382" width="1.0926" height="1.2765" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 <g transform="scale(1.0000, 1.0000)">
-<g transform="translate(24.9994, 71.5709)">
+<g transform="translate(24.1485, 72.9602)">
 <text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
 </g>
-<g transform="translate(24.5641, 77.9327)">
+<g transform="translate(23.7132, 79.3219)">
 <text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>そ</tspan>
 </text>
-</g>
-<g transform="translate(18.4213, 77.9327)">
-<text font-family="IPAexGothic" font-size="1.9600" text-anchor="start" fill="currentColor">
-<tspan>は</tspan>
-</text>
-</g>
-<g transform="translate(18.7473, 69.8373)">
-<text font-family="Libertinus Serif" font-size="1.5557" text-anchor="start" fill="currentColor">
-<tspan> Ⅱ</tspan>
-</text>
-</g>
-<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
-<g transform="translate(18.7473, 70.9327)">
-<rect x="0.1093" y="-0.6323" width="1.0926" height="1.2646" ry="0.0000" fill="currentColor"/>
-</g>
-</g>
-<g transform="scale(1.0000, 1.0000)">
-<g transform="translate(18.8566, 71.5649)">
-<text font-family="IPAexGothic" font-weight="bold" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>7</tspan>
-</text>
-</g>
 </g>
 </svg>
