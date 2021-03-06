@@ -36,7 +36,7 @@ third  = \markup {
 }
 
 scoreTitle = "上を向いて歩こう"
-scoreMeter = "二上がり"
+scoreMeter = "4/4 二上がり"
 
 \header {
   title = \scoreTitle
@@ -67,47 +67,50 @@ scoreMeter = "二上がり"
   ) ", ")
 }
 
-newIncrement = 1.5
+noteTwoSpacingIncrement = 1.5
+restTwoSpacingIncrement = 1.75
 
 main = {
   % Hide the time signatures
   \omit Staff.TimeSignature
 
-  \time 5/4
-  r c' c' d'^\first e'^\third |
-  \time 4/4
-  e' c' g a |
+  r4 c' c' d'8^\first e'^\third |
+  e'4 c' g a |
   r c' r d' |
   e' c' g a |
   \break
   r c' c' d'^\first |
   <g e'>^\first r e' g'^\first |
   a'^\third r a' g'^\first |
-  \time 5/4
-  a'^\third g'^\first e' d' d'\sukui |
-  r c' c'\sukui c' a |
-  \time 4/4
+  a'^\third g'^\first e' d'8 d'\sukui |
+  \tupletUp
+  r4 \tuplet 3/2 { c' c'\sukui c' } a |
+  \tupletNeutral
   % Increase the spacing of the measure so the duration bar doesn't clash with the rest dot
   \newSpacingSection
-  \override Score.SpacingSpanner.spacing-increment = \newIncrement
+  \override Score.SpacingSpanner.spacing-increment = \noteTwoSpacingIncrement
   d'2
   \newSpacingSection
-  \revert Score.SpacingSpanner.spacing-increment
+  \override Score.SpacingSpanner.spacing-increment = \restTwoSpacingIncrement
   r |
+  \newSpacingSection
+  \revert Score.SpacingSpanner.spacing-increment
   d'4 r d' c' |
   % Increase the spacing of the measure so the duration bar doesn't clash with the rest dot
   \newSpacingSection
-  \override Score.SpacingSpanner.spacing-increment = \newIncrement
+  \override Score.SpacingSpanner.spacing-increment = \noteTwoSpacingIncrement
   e'2
   \newSpacingSection
-  \revert Score.SpacingSpanner.spacing-increment
+  \override Score.SpacingSpanner.spacing-increment = \restTwoSpacingIncrement
   r |
+  \newSpacingSection
+  \revert Score.SpacingSpanner.spacing-increment
   c'4 c' r a'^\third |
   g'^\first e'^\first c' a |
   <g c'> q
   % Increase the spacing of the measure so the duration bar doesn't clash with the bar
   \newSpacingSection
-  \override Score.SpacingSpanner.spacing-increment = \newIncrement
+  \override Score.SpacingSpanner.spacing-increment = \restTwoSpacingIncrement
   r2 |
   \newSpacingSection
   \revert Score.SpacingSpanner.spacing-increment
@@ -134,13 +137,27 @@ song = {
   f'4^\first f' f' g'^\first |
   a'^\third r f'^\first a'^\third |
   g'^\first r g' e' |
-  % TODO: Replace with g'2 r when the spacing bug gets fixed
-  g' r2 s4 |
+  % Increase the spacing of the measure so the duration bar doesn't clash with the rest dot
+  \newSpacingSection
+  \override Score.SpacingSpanner.spacing-increment = \noteTwoSpacingIncrement
+  g'2
+  \newSpacingSection
+  \override Score.SpacingSpanner.spacing-increment = \restTwoSpacingIncrement
+  r |
+  \newSpacingSection
+  \revert Score.SpacingSpanner.spacing-increment
   f'4^\first f' f' g'^\first |
   aes'^\second r f'^\first aes'^\second |
   g'^\first r e' g' |
-  % TODO: Replace with d'2 r when the spacing bug gets fixed
-  d' r2 s4 |
+  % Increase the spacing of the measure so the duration bar doesn't clash with the rest dot
+  \newSpacingSection
+  \override Score.SpacingSpanner.spacing-increment = \noteTwoSpacingIncrement
+  d'2
+  \newSpacingSection
+  \override Score.SpacingSpanner.spacing-increment = \restTwoSpacingIncrement
+  r |
+  \newSpacingSection
+  \revert Score.SpacingSpanner.spacing-increment
 
   \break
 
