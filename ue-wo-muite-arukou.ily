@@ -134,7 +134,7 @@ song = {
 
   \break
 
-  f'4^\first f' f' g'^\first |
+  f'4 f' f' g'^\first |
   a'^\third r f'^\first a'^\third |
   g'^\first r g' e' |
   % Increase the spacing of the measure so the duration bar doesn't clash with the rest dot
@@ -146,7 +146,7 @@ song = {
   r |
   \newSpacingSection
   \revert Score.SpacingSpanner.spacing-increment
-  f'4^\first f' f' g'^\first |
+  f'4 f' f' g'^\first |
   aes'^\second r f'^\first aes'^\second |
   g'^\first r e' g' |
   % Increase the spacing of the measure so the duration bar doesn't clash with the rest dot
