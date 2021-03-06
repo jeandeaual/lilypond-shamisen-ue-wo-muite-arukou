@@ -67,6 +67,8 @@ scoreMeter = "二上がり"
   ) ", ")
 }
 
+newIncrement = 1.5
+
 main = {
   % Hide the time signatures
   \omit Staff.TimeSignature
@@ -85,14 +87,30 @@ main = {
   a'^\third g'^\first e' d' d'\sukui |
   r c' c'\sukui c' a |
   \time 4/4
-  % TODO: Replace with d'2 r when the spacing bug gets fixed
-  d' r2 s4 |
+  % Increase the spacing of the measure so the duration bar doesn't clash with the rest dot
+  \newSpacingSection
+  \override Score.SpacingSpanner.spacing-increment = \newIncrement
+  d'2
+  \newSpacingSection
+  \revert Score.SpacingSpanner.spacing-increment
+  r |
   d'4 r d' c' |
-  % TODO: Replace with e'2 r when the spacing bug gets fixed
-  e' r2 s4 |
+  % Increase the spacing of the measure so the duration bar doesn't clash with the rest dot
+  \newSpacingSection
+  \override Score.SpacingSpanner.spacing-increment = \newIncrement
+  e'2
+  \newSpacingSection
+  \revert Score.SpacingSpanner.spacing-increment
+  r |
   c'4 c' r a'^\third |
   g'^\first e'^\first c' a |
-  <g c'> q r2 |
+  <g c'> q
+  % Increase the spacing of the measure so the duration bar doesn't clash with the bar
+  \newSpacingSection
+  \override Score.SpacingSpanner.spacing-increment = \newIncrement
+  r2 |
+  \newSpacingSection
+  \revert Score.SpacingSpanner.spacing-increment
 }
 
 song = {
